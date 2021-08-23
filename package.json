@@ -1,0 +1,23 @@
+{
+  "name": "manga-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "scraper": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bowpie",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "js-beautify": "^1.14.0",
+    "nodemon": "^2.0.12",
+    "puppeteer": "^10.1.0",
+    "request": "^2.88.2"
+  }
+}
