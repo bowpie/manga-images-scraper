@@ -1,6 +1,6 @@
 # MangaFox Scraper API - Unofficial New 2021
 
-> This API provides basic functionality for searching and getting manga images from [MangaFox](fanfox.net) using `Nodejs` with `Puppeteer, Cheerio and ExpressJs`.
+> This API provides basic functionality for searching and getting manga images from [MangaFox](http://fanfox.net) using `Nodejs` with `Puppeteer, Cheerio and ExpressJs`.
 
 ## Description/Usage
 
