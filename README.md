@@ -103,7 +103,7 @@ It has 2 valid endpoints:
 
 > **Example**
 
-### `/manga/images/jujutsu_kaisen`
+### `/manga/images/jujutsu_kaisen/50`
 
 ```
 {
