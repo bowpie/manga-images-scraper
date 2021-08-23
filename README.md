@@ -2,8 +2,6 @@
 
 > This API provides basic functionality for searching and getting manga images from [MangaFox](fanfox.net) using `Nodejs` with `Puppeteer, Cheerio and ExpressJs`.
 
-It has nothing to do with the official site, I just made it for fun and I will not be held responsible for any misuse of this.
-
 ## Description/Usage
 
 ### **Requests**
